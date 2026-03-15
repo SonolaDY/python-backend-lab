@@ -1,0 +1,8 @@
+[
+  {"name": "Cedar Republic", "population": 1200000, "languages": ["English", "French"]},
+  {"name": "Harbor Isles", "population": 450000, "languages": ["English"]},
+  {"name": "Maple Federation", "population": 3000000, "languages": ["French", "Spanish"]},
+  {"name": "Northvale", "population": 2000000, "languages": ["English", "Spanish"]},
+  {"name": "Riverland", "population": 800000, "languages": ["Portuguese"]},
+  {"name": "Sun Coast", "population": 1500000, "languages": ["Spanish", "Portuguese"]}
+]
